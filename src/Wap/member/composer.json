@@ -1,0 +1,19 @@
+{
+    "name": "roseinory\/laravel-shop-wap-member",
+    "description": "this is shop wap member zujian",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rose",
+            "email": "rosehtx@163.com"
+        }
+    ],
+    "require": {
+        "overtrue/laravel-wechat": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Roseinory\\LaravelShop\\Wap\\Member\\": ""
+        }
+    }
+}

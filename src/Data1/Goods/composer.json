@@ -1,0 +1,17 @@
+{
+    "name": "shineyork\/laravel-shop-data-goods",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shineyork",
+            "email": "shineyork@sixstaredu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ShineYork\\LaravelShop\\Data\\Goods\\": ""
+        }
+    }
+}

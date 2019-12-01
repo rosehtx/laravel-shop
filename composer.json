@@ -1,0 +1,29 @@
+{
+    "name": "roseinory\/laravel-shop",
+    "description": "this is a shop zujian",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rose",
+            "email": "rosehtx@163.com"
+        }
+    ],
+    "require": {
+
+    },
+    "replace": {
+        "roseinory/laravel-shop-wap-member":"self.version"
+    },
+    "autoload": {
+        "psr-4": {
+            "Roseinory\\LaravelShop\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+
+            ]
+        }
+    }
+}

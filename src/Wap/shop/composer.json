@@ -1,0 +1,17 @@
+{
+    "name": "shop\/laravel-shop-wap-shop",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rose",
+            "email": "rosehtx@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Roseinory\\LaravelShop\\Wap\\Shop\\": ""
+        }
+    }
+}

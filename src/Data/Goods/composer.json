@@ -1,0 +1,17 @@
+{
+    "name": "roseinory\/laravel-shop-wap-medata-goods",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rose",
+            "email": "rosehtx@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Roseinory\\LaravelShop\\Data\\Goods\\": ""
+        }
+    }
+}
